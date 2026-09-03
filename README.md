@@ -153,7 +153,7 @@ Many hazard, gradient and station boards along the line are old and in English o
 - A public URL (GitHub Pages, Netlify, Vercel or similar) that installs as a PWA and works after one online load.
 - A public repo with a README stating: which on-device model(s) you use, the minimum device you tested on, and what happens when the model is unavailable.
 - A 2-minute video recorded with airplane mode visibly on.
-- Teams of 2–4. One problem statement per team; you may combine statements where the brief says so (B1+B6+B7, A6+B6).
+- Teams of 1–2. One problem statement per team; you may combine statements where the brief says so (B1+B6+B7, A6+B6).
 
 ---
 
